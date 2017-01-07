@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "name": "Tèquie",
+    "project-description": "A bot for managing projects for Project du Tèque members.",
+    "recruiting": true,
+    "looking-for": ["node.js"],
+    "facebook-user": "sam.lazarus.528"
+  }
+]
