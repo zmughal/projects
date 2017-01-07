@@ -10,18 +10,18 @@ The file should be of the following format:
 ```json
 [
   {
-    'name': 'Tèquie',
-    'project-description': 'A bot for managing projects in Projects Du Tèque',
-    'recruiting': true,
-    'looking-for': ['node.js'],
-    'facebook-user': 'some-fb-username-here'
+    "name": "Tèquie",
+    "project-description": "A bot for managing projects in Projects Du Tèque",
+    "recruiting": true,
+    "looking-for": ["node.js"],
+    "facebook-user": "some-fb-username-here"
   },
   {
-    'name': 'Other Sample Project',
-    'project-description': 'Another random project',
-    'recruiting': true,
-    'looking-for': ['python', 'designer'],
-    'facebook-user': 'some-other-fb-username-here'
+    "name": "Other Sample Project",
+    "project-description": "Another random project",
+    "recruiting": true,
+    "looking-for": ["python", "designer"],
+    "facebook-user": "some-other-fb-username-here"
   }
 ]
 ```
