@@ -5,5 +5,12 @@
     "recruiting": true,
     "looking-for": ["node.js"],
     "facebook-user": "sam.lazarus.528"
+  },
+  {
+    "name": "Project Renard",
+    "project-description": "A document reader desktop application.",
+    "recruiting": true,
+    "looking-for": ["perl", "c", "gtk3"],
+    "facebook-user": "zmughal"
   }
 ]
